@@ -1,0 +1,12 @@
+# Compiled files
+*.o
+*.exe
+calculator  # if this is your compiled executable
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Editor-specific files
+*.swp  # Swap files for vim
+*.vscode/  # VS Code settings
